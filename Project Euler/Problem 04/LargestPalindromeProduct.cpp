@@ -1,8 +1,8 @@
 /*****************************************
 *			PROJECT EULER
-*			  PROBLEM 
-*		
-*		Author: Hakan Eryücel
+*			  PROBLEM 04
+*		LARGEST PALINDROME PRODUCT
+*		 Author: Hakan Eryücel
 *****************************************/
 #include <iostream>
 #include <string>
