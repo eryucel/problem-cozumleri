@@ -1,0 +1,2 @@
+# Problem Açıklaması:
+Klavyeden başlangıç, bitiş ve adım miktarı sayıları alınacaktır. Başlangıç ve Bitiş değerlerinin arasında kalan sayılar adım miktarına uygun şekilde toplayarak ekrana yazdıran program.
