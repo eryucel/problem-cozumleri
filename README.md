@@ -1,2 +1,3 @@
-# ProblemCozumleri
-Çeşitli Problemler ve Farklı Dillerde Çözümleri
+# Problem Çözümleri
+C, C++ ve Java dillerinde alıştırma yapmak adına çözdüğüm basit problemler. 
+Project Euler çözümleri.
